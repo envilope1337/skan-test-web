@@ -1,0 +1,1 @@
+var e=new Intl.NumberFormat(`ru`,{maximumFractionDigits:2});function t(t){return e.format(t)}function n(e,t,n,r){let i=e%10,a=e%100;return a>=11&&a<=19?r:i===1?t:i>=2&&i<=4?n:r}export{n,t};
