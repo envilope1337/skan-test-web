@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-DF2fYuay.js";import{o as t}from"./vendor-query-BiInfo69.js";var n=e(t(),1);function r(e){let[t,r]=(0,n.useState)(null);return[e&&t!==e?e:null,()=>r(e??null)]}export{r as t};

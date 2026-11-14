@@ -1,0 +1,1 @@
+import{i as e}from"./vendor-query-BiInfo69.js";import{t}from"./relogin-0CALK8wO.js";var n=e();function r(){return(0,n.jsx)(`div`,{className:`flex flex-col items-center text-center px-4 pt-14 pb-10`,"data-testid":`relogin`,role:`alert`,children:(0,n.jsx)(`p`,{className:`text-sm max-w-[280px]`,style:{color:`var(--neon-red)`,lineHeight:1.45},children:t})})}export{r as t};
