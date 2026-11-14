@@ -1,0 +1,1 @@
+var e=`Вход устарел. Закрой приложение и открой заново.`,t=new Set([`unauthorized`,`invalid_init_data`,`missing_init_data`]);function n(e){let n=e instanceof Error?e.message:typeof e==`string`?e:``;return t.has(n)}export{n,e as t};
